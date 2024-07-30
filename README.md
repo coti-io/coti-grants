@@ -18,7 +18,7 @@ If there is an open RFP here that matches your skillset, feel free to [submit a 
 
 | RFP | Last Updated |
 | :-- | :----------: |
-| [metamask.md](link) | 2024-07-01 |
+| [metamask.md](RFPs/metamask.md) | 2024-07-01 |
 
 </details>
 
