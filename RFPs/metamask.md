@@ -26,18 +26,24 @@ To overcome this limitation, we are looking to develop a MetaMask Snap using Met
 
 1. **MetaMask Snap Development**
     1. Develop a MetaMask Snap using MetaMask Flask to support COTI v2’s encryption scheme.
+
     2. Implement functionality within the Snap to decrypt and display COTI v2 contracts data.
+
     3. The snap must work with the following token types (so that when a user deploys an encrypted token, ONLY authorized users can view balances)
         1. ERC20
         2. ERC721
         3. ERC1155
     4. Ensure the Snap is secure and does not compromise user data.
+
     5. Follow [Metamask’s Snap design guidelines](https://docs.metamask.io/snaps/learn/best-practices/design-guidelines/)
+
 2. **Authentication and Authorization**
-    6. Method for authenticating COTI v2 accounts within the MetaMask Snap. This should be completed by either providing the user’s key to Metamask or by pointing Metamask to the contract that holds the key. This should work with existing Metamask functionality.
+    1. Method for authenticating COTI v2 accounts within the MetaMask Snap. This should be completed by either providing the user’s key to Metamask or by pointing Metamask to the contract that holds the key. This should work with existing Metamask functionality.
+
 3. **Data Display and Management**
-    7. Provide functionality to decrypt and display user data on the COTI v2 network within the MetaMask Snap. This should include the ability to decrypt any data, including  network  data and smart contract data, using the contracts' abi data
-    8. Support sending and receiving transactions on the COTI v2 network through the MetaMask Snap. This includes querying contract states, sending transactions to modify the state, and calling contract functions.
+    1. Provide functionality to decrypt and display user data on the COTI v2 network within the MetaMask Snap. This should include the ability to decrypt any data, including  network  data and smart contract data, using the contracts' abi data.
+
+    2. Support sending and receiving transactions on the COTI v2 network through the MetaMask Snap. This includes querying contract states, sending transactions to modify the state, and calling contract functions.
 
 
 ## Non-Functional Requirements
