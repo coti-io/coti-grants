@@ -1,4 +1,4 @@
-# COTI Builders Program Wishlist
+# COTI Builders Program RFP Backlog
 
 The [COTI Builders Program](https://cotinetwork.notion.site/Overview-COTI-Builders-Program-f742a22ff8ef4e648935362b9b4a9c34) supports the growth of the COTI V2 network and its ecosystem.
 
