@@ -18,7 +18,7 @@ If there is an open RFP here that matches your skillset, feel free to [submit a 
 
 | RFP | Last Updated |
 | :-- | :----------: |
-| [metamask.md](RFPs/metamask.md) | 2024-07-01 |
+| [metamask.md](RFPs/open/metamask.md) | 2024-07-01 |
 
 </details>
 
@@ -29,7 +29,8 @@ If there is an open RFP here that matches your skillset, feel free to [submit a 
 
 | RFP | Last Updated |
 | :-- | :----------: |
-| [under_dev.md](link) | date |
+| [hardhat.md](RFPs/under_dev/hardhat.md) | 2024-07-05 |
+| [foundry.md](RFPs/under_dev/foundry.md) | 2024-07-05 |
 
 </details>
 
