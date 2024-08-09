@@ -42,7 +42,7 @@ If there is an open RFP here that matches your skillset, feel free to [submit a 
 
 | RFP | Last Updated |
 | :-- | :----------: |
-| [closed.md](link) | date |
+|  |  |
 
 </details>
 
