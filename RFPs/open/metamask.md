@@ -97,11 +97,11 @@ _Projects awarded a grant will be checked on the following criterion before work
 
 ### Non-Functional Requirements
 
-1. **Security: **Ensure end-to-end encryption for all communications between MetaMask Flask and the COTI v2 network.
+1. **Security:** Ensure end-to-end encryption for all communications between MetaMask Flask and the COTI v2 network.
 
-2. **Performance: **Optimize the Snap to ensure fast and efficient decryption of data.
+2. **Performance:** Optimize the Snap to ensure fast and efficient decryption of data.
 
-3. **Scalability: **Design the Snap to support a large number of users and transactions.
+3. **Scalability:** Design the Snap to support a large number of users and transactions.
 
 4. **Support**: Provide support for any issues that arise from v1 for up to 12mo.
 
